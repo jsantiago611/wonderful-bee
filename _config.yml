@@ -17,10 +17,8 @@ navigation:
   url: "/about/"
 - text: Tags
   url: "/tags/"
-- text: Download
-  url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "© Jonathan Santiago all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
 plugins:
 - jekyll-paginate
