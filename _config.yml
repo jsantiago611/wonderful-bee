@@ -1,15 +1,13 @@
 ---
 accent_color: "#00BFFF"
 lang: en-US
-title: PrayStack
-description: 'Are your prayers just lists of requests to God? Rethink Prayer with
-  PrayStack. PrayStack is a free resource that guides you through these different
-  types of prayers: Adoration, Confession, Renewal, Petition, Intercession, Affirmation,
-  and Thanksgiving.'
+title: Prayer in Life
+description: Short, daily meditations on God's Word that guide us into Scripture-based
+  Prayer
 baseurl: ''
 url: https://scriptor-jekyll.netlify.com
 permalink: "/:title"
-favicon: images/favicon.png
+favicon: "/images/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_17f6fead-8333-4e07-8cca-e5b0587ac752_256x256.png"
 google_analytics: ''
 disqus: justgoodthemes
 navigation:
